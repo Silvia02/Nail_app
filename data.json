@@ -1,0 +1,262 @@
+[
+    {
+    "id": 168,
+    "brand": "moov",
+    "name": "Moov Cosmetics St. Tropez Collection",
+    "price": "14.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/f426b2e2e9ff8e01788a0947aad93512_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/moov-cosmetics-st-tropez-collection_116031.html",
+    "website_link": "https://well.ca",
+    "description": "The Moov Cosmetics St. Tropez Collection is a vegan nail colour that is perfect collection of shades that will take you from day to day.Features:VeganLonger lasting wearCreamy applicationDirections: Apply two coats, best results with Moov 2-in-1 Prime & Prep application.Ingredients: Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl, Gloycol/Trimellitic Anhydride, Copolymer, Tributyl Citrate, Isopropyl Alcohol, Strearalkonium Bentonite, Acrylates Copolymer, Silica,Benzophenone-1, Trimethylpentanediyl DibenzoateNatural, Vegan, Gluten Free, Fair Trade, Sugar Free, Non-GMO, Dairy Free",
+    "rating": null,
+    "category": null,
+    "product_type": "nail_polish",
+    "tag_list": [
+    "Natural",
+    "Vegan",
+    "Gluten Free",
+    "Fair Trade",
+    "Sugar Free",
+    "Non-GMO",
+    "Dairy Free",
+    "Canadian"
+    ],
+    "created_at": "2016-10-01T18:27:39.741Z",
+    "updated_at": "2017-12-23T20:51:13.564Z",
+    "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/168.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/168/original/data?1514062273",
+    "product_colors": [
+    {
+    "hex_value": "#DAC3B1",
+    "colour_name": "Lace Camisole "
+    }
+    ]
+    },
+    {
+    "id": 165,
+    "brand": "moov",
+    "name": "Moov Cosmetics Caribbean Wedding Collection",
+    "price": "14.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/678f91758b7a611d673124f7ad1f00d0_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/moov-cosmetics-caribbean-wedding_116039.html",
+    "website_link": "https://well.ca",
+    "description": "The Moov Cosmetics Caribbean Wedding Collection is a vegan nail colour that has the perfect soft pastel shades for that romantic getaway.Features:VeganLonger lasting wearCreamy applicationDirections: Apply two coats, best results with Moov 2-in-1 Prime & Prep application.Ingredients: Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl, Gloycol/Trimellitic Anhydride, Copolymer, Tributyl Citrate, Isopropyl Alcohol, Strearalkonium Bentonite, Acrylates Copolymer, Silica,Benzophenone-1, Trimethylpentanediyl DibenzoateNatural, Vegan, Gluten Free, Fair Trade, Sugar Free, Non-GMO, Dairy Free",
+    "rating": 2,
+    "category": null,
+    "product_type": "nail_polish",
+    "tag_list": [
+    "Natural",
+    "Vegan",
+    "Gluten Free",
+    "Fair Trade",
+    "Sugar Free",
+    "Non-GMO",
+    "Dairy Free",
+    "Canadian"
+    ],
+    "created_at": "2016-10-01T18:27:34.994Z",
+    "updated_at": "2017-12-23T20:51:13.105Z",
+    "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/165.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/165/original/data?1514062273",
+    "product_colors": [
+    {
+    "hex_value": "#E4A993",
+    "colour_name": "Blush Bouquet "
+    },
+    {
+    "hex_value": "#DDA4B3",
+    "colour_name": "I Do "
+    },
+    {
+    "hex_value": "#967971",
+    "colour_name": "On One Knee "
+    }
+    ]
+    },
+    {
+    "id": 156,
+    "brand": "moov",
+    "name": "Moov Cosmetics Home Grown Canuck Collection",
+    "price": "14.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/65ca894afba3c4351a3db71c24234c50_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/moov-cosmetics-home-grown-canuck_116061.html",
+    "website_link": "https://well.ca",
+    "description": "The Moov Cosmetics Home Grown Canuck Collection is a vegan nail colour that has a fun representation of shades from East to West.Features:VeganLonger lasting wearCreamy applicationDirections: Apply two coats, best results with Moov 2-in-1 Prime & Prep application.Ingredients: Butyl Acetate, Ethyl Acetate, Nitrocellulose, Adipic Acid/Neopentyl, Gloycol/Trimellitic Anhydride, Copolymer, Tributyl Citrate, Isopropyl Alcohol, Strearalkonium Bentonite, Acrylates Copolymer, Silica,Benzophenone-1, Trimethylpentanediyl DibenzoateNatural, Vegan, Gluten Free, Fair Trade, Sugar Free, Non-GMO, Dairy Free",
+    "rating": 3,
+    "category": null,
+    "product_type": "nail_polish",
+    "tag_list": [
+    "Natural",
+    "Vegan",
+    "Gluten Free",
+    "Fair Trade",
+    "Sugar Free",
+    "Non-GMO",
+    "Dairy Free",
+    "Canadian"
+    ],
+    "created_at": "2016-10-01T18:27:19.853Z",
+    "updated_at": "2017-12-23T20:51:11.135Z",
+    "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/156.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/156/original/data?1514062271",
+    "product_colors": [
+    {
+    "hex_value": "#251414",
+    "colour_name": "Deep Creek "
+    },
+    {
+    "hex_value": "#521B3E",
+    "colour_name": "Canadian Wildberries "
+    },
+    {
+    "hex_value": "#A99483",
+    "colour_name": "Double Double "
+    },
+    {
+    "hex_value": "#C4658F",
+    "colour_name": "Lunching In Yorkville "
+    },
+    {
+    "hex_value": "#8C0002",
+    "colour_name": "True North "
+    }
+    ]
+    },
+    {
+    "id": 126,
+    "brand": "pure anada",
+    "name": "Pure Anada Nail Polish",
+    "price": "10.0",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/3184a0a50b398f81e7284b1a04befc9a_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/pure-anada-nail-polish_93647.html",
+    "website_link": "https://well.ca",
+    "description": "Pure Anada Nail Polish is long-wearing polish color that is “free” from the 5 most toxic ingredients found in traditional polish. Plus it is solvent-based, not water-based.Pure Anada Polish is amazingly long-lasting when applied with the “Over-Under” base/top coat.Ingredients: Butylacetate, Ethylacetate, Nitrocellulose, Acetyl Tributyl  Citrate, Adipic Acid/Neopentyl, Glycol Trimellitic, Anhydride Copolymer, Isopropyl Alcohol, Acrylates Copolymer, Stearalkonium Bentonite,  Styrene Acrylates, Copolymer, Silica, Alumina, Benzophenone-1. May contain:  Mica, Iron Oxides (CI77491, 77499), Titanium Dioxide (CI77891), Red 7 Lake (CI158501), UltramarinesVegan, Gluten Free, Non-GMO, 5-Free, Dairy Free, Peanut Free",
+    "rating": 4.8,
+    "category": null,
+    "product_type": "nail_polish",
+    "tag_list": [
+    "Natural",
+    "Vegan",
+    "Gluten Free",
+    "Non-GMO",
+    "Canadian"
+    ],
+    "created_at": "2016-10-01T18:26:15.348Z",
+    "updated_at": "2017-12-23T20:51:04.558Z",
+    "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/126.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/126/original/data?1514062264",
+    "product_colors": [
+    {
+    "hex_value": "#aa897e",
+    "colour_name": "Baroque Beauty\t- Medium Taupe "
+    },
+    {
+    "hex_value": "#e89488",
+    "colour_name": "Call Me Baby\t - Coral "
+    },
+    {
+    "hex_value": "#eed4d2",
+    "colour_name": "Cherry Blossom\t - Light Bubble Gum Pink "
+    },
+    {
+    "hex_value": "#590203",
+    "colour_name": "Deep Wine\t - Rich Deep Red Burgundy "
+    },
+    {
+    "hex_value": "#4b1d33",
+    "colour_name": "Eggplant\t - Dark Purple Black "
+    },
+    {
+    "hex_value": "#d1b494",
+    "colour_name": "Jazz Hands\t - Medium Shimmering Caramel "
+    },
+    {
+    "hex_value": "#7b6a52",
+    "colour_name": "Medieval - Deep Grey Brown with Slight Green Undertone "
+    },
+    {
+    "hex_value": "#f38d6a",
+    "colour_name": "Melon Mania\t - Bright Orange Coral "
+    },
+    {
+    "hex_value": "#8b7267",
+    "colour_name": "Mink\t - Medium Grey "
+    },
+    {
+    "hex_value": "#BD3871",
+    "colour_name": "Nebula - Mixed Pink Glitter "
+    },
+    {
+    "hex_value": "#dbc59b",
+    "colour_name": "Saturn\t - Large Gold Glitter and Small Rose Glitter "
+    },
+    {
+    "hex_value": "#ebd9cd",
+    "colour_name": "Sheer Love\t - Sheer Nude "
+    },
+    {
+    "hex_value": "#d8afb7",
+    "colour_name": "Twilight Romance\t - Medium Dusty Rose "
+    },
+    {
+    "hex_value": "#983539",
+    "colour_name": "Velvet Rose\t - Medium Deep Reddish Rose "
+    },
+    {
+    "hex_value": "#E44579",
+    "colour_name": "Make it Magenta "
+    },
+    {
+    "hex_value": "#FD5758",
+    "colour_name": "Poolside Pink "
+    }
+    ]
+    },
+    {
+    "id": 124,
+    "brand": "mineral fusion",
+    "name": "Mineral Fusion Nail Polish",
+    "price": "10.0",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/affda4fa0d0c8263549fe901eda814cc_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/mineral-fusion-nail-polish_91622.html",
+    "website_link": "https://well.ca",
+    "description": "Mineral Fusion Nail Polish is a healthier alternative to traditional nail polish in many gorgeous shades. Apply this long-lasting chip-resistant mineral nail polish formula flawlessly using the custom, extra-thick brush. Mineral Fusion Nail Polish is a toulene free nail polish and like all of their cosmetics, upholds their standard for Formula Purity.Features:Long-lasting chip resistant formulaFormaldehyde, toulene, camphor and dibutyl pthalate freeCustom, extra-thick brush for flawless applicationIngredients: Ethyl Acetate, Butyl Acetate, Isopropyl Alcohol, Nitrocellulose, Adipic Acid/Neopentyl Glycol/Trimellitic, Anhydride Copolymer, Trimethyl Pentanyl Diisobutyrate, Stearalkonium Hectorite, Diacetone Alcohol Styrene, Acrylates Copolymer, Silica, Citric Acid, Benzophenone. Mica, Oxides, Titanium Dioxide, Bismuth Oxychloride, Aluminum Powder, D&C Red No. 7 Calcium Lake, D&C Violet No. 2, FD&C Yellow No. 5 Alluminum Lake, Ferric Ammonium Ferrocyanide. Mineral Fusion Nail Polish is formaldehyde free, toulene free, camphor free, dibutyl pthalate free, paraben free, hypoallergenic, gluten free, talc free, fragrance free and free of artificial colors. As with all of their cosmetics, Mineral Fusion Nail Polish is never tested on animals.",
+    "rating": 4,
+    "category": null,
+    "product_type": "nail_polish",
+    "tag_list": [
+    "Gluten Free",
+    "Natural"
+    ],
+    "created_at": "2016-10-01T18:26:11.009Z",
+    "updated_at": "2017-12-23T20:51:03.499Z",
+    "product_api_url": "http://makeup-api.herokuapp.com/api/v1/products/124.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/124/original/data?1514062263",
+    "product_colors": [
+    {
+    "hex_value": "#E3BFC6",
+    "colour_name": "Blushing Crystal - Pale pink (sheer finish) "
+    },
+    {
+    "hex_value": "#EED8E3",
+    "colour_name": "Pink Crush - Sheer pink (glitter finish) "
+    },
+    {
+    "hex_value": "#F09AA9",
+    "colour_name": "Skipping Stone - Light pink (metallic finish) "
+    }
+    ]
+    }
+    ]
+
+    
